@@ -1,0 +1,223 @@
+[
+    {
+        "sku": "SKU001",
+        "product_name": "T-Shirt",
+        "quantity": 20,
+        "price": 159.99,
+        "size": "M",
+        "color": "Red",
+        "brand": "Canada Goose",
+        "image": "tshirt_image_url",
+        "description": "Classic red t-shirt made from premium cotton fabric. Perfect for casual wear."
+    },
+    {
+        "sku": "SKU002",
+        "product_name": "Hoodie",
+        "quantity": 15,
+        "price": 299.99,
+        "size": "L",
+        "color": "Black",
+        "brand": "Stone Island",
+        "image": "hoodie_image_url",
+        "description": "Black hoodie crafted with high-quality fleece material. Features a signature Stone Island logo patch on the sleeve."
+    },
+    {
+        "sku": "SKU003",
+        "product_name": "Polo-Shirt",
+        "quantity": 30,
+        "price": 199.99,
+        "size": "S",
+        "color": "Blue",
+        "brand": "Moncler",
+        "image": "polo_shirt_image_url",
+        "description": "Stylish blue polo shirt with a subtle Moncler logo embroidered on the chest. Made from soft and breathable cotton blend."
+    },
+    {
+        "sku": "SKU004",
+        "product_name": "Pants",
+        "quantity": 25,
+        "price": 249.99,
+        "size": "M",
+        "color": "Khaki",
+        "brand": "Prada",
+        "image": "pants_image_url",
+        "description": "Comfortable khaki pants designed by Prada. Made from durable cotton twill fabric. Perfect for everyday wear."
+    },
+    {
+        "sku": "SKU005",
+        "product_name": "Jacket",
+        "quantity": 10,
+        "price": 399.99,
+        "size": "XL",
+        "color": "Navy",
+        "brand": "Canada Goose",
+        "image": "jacket_image_url",
+        "description": "Stylish navy jacket by Canada Goose. Insulated with premium down filling for superior warmth. Ideal for cold weather conditions."
+    },
+    {
+        "sku": "SKU006",
+        "product_name": "Vest",
+        "quantity": 18,
+        "price": 179.99,
+        "size": "M",
+        "color": "Gray",
+        "brand": "Stone Island",
+        "image": "vest_image_url",
+        "description": "Versatile gray vest crafted with lightweight and water-repellent fabric. Features multiple pockets and a detachable hood."
+    },
+    {
+        "sku": "SKU007",
+        "product_name": "Hoodie",
+        "quantity": 22,
+        "price": 289.99,
+        "size": "L",
+        "color": "Green",
+        "brand": "Moncler",
+        "image": "hoodie_image_url",
+        "description": "Green hoodie with a modern and sporty design. Embellished with the iconic Moncler logo patch on the chest."
+    },
+    {
+        "sku": "SKU008",
+        "product_name": "Jacket",
+        "quantity": 12,
+        "price": 499.99,
+        "size": "S",
+        "color": "Black",
+        "brand": "Prada",
+        "image": "jacket_image_url",
+        "description": "Classic black jacket designed by Prada. Features a sleek and minimalist silhouette with subtle branding details."
+    },
+    {
+        "sku": "SKU009",
+        "product_name": "Polo-Shirt",
+        "quantity": 28,
+        "price": 219.99,
+        "size": "XL",
+        "color": "White",
+        "brand": "Stone Island",
+        "image": "polo_shirt_image_url",
+        "description": "High-quality white polo shirt crafted with soft and breathable cotton fabric. Ideal for both casual and semi-formal occasions."
+    },
+    {
+        "sku": "SKU010",
+        "product_name": "T-Shirt",
+        "quantity": 16,
+        "price": 169.99,
+        "size": "L",
+        "color": "Gray",
+        "brand": "Moncler",
+        "image": "tshirt_image_url",
+        "description": "Gray t-shirt featuring a bold Moncler logo print on the front. Made from premium cotton for maximum comfort."
+    },
+    {
+        "sku": "SKU011",
+        "product_name": "Jacket",
+        "quantity": 15,
+        "price": 549.99,
+        "size": "M",
+        "color": "Black",
+        "brand": "Moncler",
+        "image": "jacket_image_url",
+        "description": "Black jacket with a sleek and modern design. Features a detachable hood and multiple pockets."
+    },
+    {
+        "sku": "SKU012",
+        "product_name": "Pants",
+        "quantity": 20,
+        "price": 199.99,
+        "size": "L",
+        "color": "Navy",
+        "brand": "Prada",
+        "image": "pants_image_url",
+        "description": "Navy pants crafted from high-quality stretch cotton fabric. Offers a comfortable and tailored fit."
+    },
+    {
+        "sku": "SKU013",
+        "product_name": "Hoodie",
+        "quantity": 25,
+        "price": 329.99,
+        "size": "XL",
+        "color": "Gray",
+        "brand": "Canada Goose",
+        "image": "hoodie_image_url",
+        "description": "Gray hoodie designed for superior warmth and comfort. Features a cozy fleece lining and ribbed cuffs."
+    },
+    {
+        "sku": "SKU014",
+        "product_name": "T-Shirt",
+        "quantity": 30,
+        "price": 179.99,
+        "size": "S",
+        "color": "White",
+        "brand": "Stone Island",
+        "image": "tshirt_image_url",
+        "description": "White t-shirt crafted from soft and breathable cotton. Features a minimalist design with a small logo patch."
+    },
+    {
+        "sku": "SKU015",
+        "product_name": "Vest",
+        "quantity": 35,
+        "price": 229.99,
+        "size": "M",
+        "color": "Green",
+        "brand": "Moncler",
+        "image": "vest_image_url",
+        "description": "Stylish green vest with a quilted design. Provides lightweight insulation and freedom of movement."
+    },
+    {
+        "sku": "SKU016",
+        "product_name": "Jacket",
+        "quantity": 40,
+        "price": 399.99,
+        "size": "L",
+        "color": "Blue",
+        "brand": "Stone Island",
+        "image": "jacket_image_url",
+        "description": "Blue jacket made from durable and water-resistant fabric. Features a detachable hood and multiple pockets."
+    },
+    {
+        "sku": "SKU017",
+        "product_name": "Polo-Shirt",
+        "quantity": 45,
+        "price": 259.99,
+        "size": "XL",
+        "color": "Red",
+        "brand": "Prada",
+        "image": "polo_shirt_image_url",
+        "description": "Red polo shirt with a classic collar and button placket. Made from premium cotton piqué for a refined look."
+    },
+    {
+        "sku": "SKU018",
+        "product_name": "Hoodie",
+        "quantity": 50,
+        "price": 299.99,
+        "size": "M",
+        "color": "Black",
+        "brand": "Moncler",
+        "image": "hoodie_image_url",
+        "description": "Black hoodie with a sporty and versatile design. Features a kangaroo pocket and ribbed trims."
+    },
+    {
+        "sku": "SKU019",
+        "product_name": "Jacket",
+        "quantity": 55,
+        "price": 449.99,
+        "size": "S",
+        "color": "Gray",
+        "brand": "Canada Goose",
+        "image": "jacket_image_url",
+        "description": "Gray jacket insulated with premium down for maximum warmth. Perfect for outdoor adventures in cold weather."
+    },
+    {
+        "sku": "SKU020",
+        "product_name": "T-Shirt",
+        "quantity": 60,
+        "price": 199.99,
+        "size": "L",
+        "color": "Blue",
+        "brand": "Stone Island",
+        "image": "tshirt_image_url",
+        "description": "Blue t-shirt featuring a unique dyeing technique for a vintage-inspired look. Made from soft and breathable cotton."
+    }
+]
+
