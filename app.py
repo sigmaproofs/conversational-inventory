@@ -24,9 +24,7 @@ bot = telebot.TeleBot(BOT_TOKEN)
 
 openai_api_key = os.getenv("OPENAI_API_KEY")
 
-# urls=[
-#     'https://www.otolawn.com/',
-# ]
+
 
 # loader = UnstructuredURLLoader(urls=urls)
 # docs = loader.load()
@@ -35,6 +33,8 @@ openai_api_key = os.getenv("OPENAI_API_KEY")
 # docs = text_splitter.split_documents(docs)
 
 # embeddings = OpenAIEmbeddings(openai_api_key=openai_api_key)
+
+# project for Raylu AI Application, based on job posting example.
 
 custom_template = """You are a sales agent for a specific store, your job is to help user to make purchase. 
     Keep the answer as concise as possible. Avoid making up answers and if you don't have information, simply say it and apologize.
