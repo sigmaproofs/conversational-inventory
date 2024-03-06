@@ -8,7 +8,7 @@ with open('sample-data.json', 'r') as file:
     data = json.load(file)
 
 # Create an engine to connect to your database
-engine = create_engine('postgresql://erfan:erfan@localhost:5432/inventory')
+engine = create_engine('postgresql://doruk:doruk@localhost:5432/available_inventory')
 
 # Create a session maker
 Session = sessionmaker(bind=engine)

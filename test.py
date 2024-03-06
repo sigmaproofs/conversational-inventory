@@ -110,7 +110,7 @@ def get_sql_query(prompt):
 
     try:
         # Connect to the database
-        engine = create_engine('postgresql://erfan:erfan@localhost:5432/inventory')
+        engine = create_engine('postgresql://doruk:doruk@localhost:5432/available_inventory')
         Session = sessionmaker(bind=engine)
         session = Session()
         
